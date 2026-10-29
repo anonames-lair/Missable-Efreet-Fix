@@ -1,0 +1,8 @@
+// Bestiary
+patch=1,EE,20571DDC,extended,00651825
+patch=1,EE,20571DE0,extended,AC430000
+patch=1,EE,20571DE4,extended,00651824
+patch=1,EE,20571DE8,extended,24020001
+
+// Efreet level 7
+patch=1,EE,20B16FE4,extended,00000001
