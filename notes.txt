@@ -1,0 +1,4 @@
+20B16FE4    Efreet 7
+20B17038    Orc 7
+20B170B0    Armor Knight 7
+20B170D4    Flea Man 7
